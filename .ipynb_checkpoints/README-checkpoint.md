@@ -6,12 +6,9 @@ Visualisation is an important part of what we do at G-Research. In this exercise
 
     Q1. Plot the daily closing price of Bitcoin and Ethereum together on to the same graph?
       a) What does this tell you?
-      - How well Bitcoin is doing compared to Ethereum
       b) Can you find another crypto-currency that behaves in the same way?
-      - Maker
       c) Can you find a crypto-currency that does not follow this pattern?
-      - Dogecoin
-      
+
     Q2. The simple moving average is a technical indicator that investors and traders use to determine the trend of a crypto-currency e.g. whether it is going up in price, or going down. The simple moving average of a series can be calculated by adding up all of the values during a specific period and dividing them by the length of the period. For example, the three day simple moving average of the series [1, 2, 3, 4, 5] is [(1 + 2 + 3) / 3, (2 + 3 + 4) / 3, (3 + 4 + 5) / 3] = [2, 3, 4] which indicates that this series has a positive trend.
       a) Plot the simple moving average of the daily closing price of Bitcoin for each day
         i) Using the previous three day period
