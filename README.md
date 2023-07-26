@@ -27,12 +27,6 @@ Visualisation is an important part of what we do at G-Research. In this exercise
           i) Using the previous three day period
           ii) Using the previous seven day period
           iii) Using the previous fourteen day period
-          
-    [Hard]
-    Q4. Using the simple moving average and the standard-deviation, we can plot 'Bollinger Bands', a type of statistical chart used in technical analysis. You can read more about how Bollinger bands are used online at Investopedia.
-      a) Plot the simple moving average for a crypto-currency of your choosing. Use a time period of your choice (20 days is common).
-      b) Plot a line which is two times the standard deviation of the same time period higher than the simple moving average.
-      c) Plot a line which is two times the standard deviation of the same time period lower than the simple moving average.
 
 ## For one penny more...
 In this exercise, we'll consider a set of questions based around buying and selling a single crypto-currency coin. We'll work our way up to a former interview question used at GR.
